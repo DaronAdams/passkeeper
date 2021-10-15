@@ -5,7 +5,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ### About this project
-A GUI program used to generate a password and store Website name, Email/username, and Password onto a local .txt file. Has input validation and confirmation features built in.
+A GUI program used to generate a password and store Website name, Email/Username, and Password onto a local .txt file. Has input validation and confirmation features built in.
 
 
 <!--- Demo -->
