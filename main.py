@@ -40,7 +40,7 @@ def save():
         messagebox.showwarning(title="Warning!", message="You've left one of the fields blank!\n"
                                                          "Please complete the form.")
     else:
-        is_okay = messagebox.askokcancel(title=website, message=f"These are the details enter:\n"
+        is_okay = messagebox.askokcancel(title=website, message=f"These are the details entered:\n"
                                                                 f"Email: {email}\nPassword: {password}\n"
                                                                 f"Is it okay to save?")
         if is_okay:
