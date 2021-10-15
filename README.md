@@ -1,8 +1,7 @@
 <div id="top"></div>
 
 ### PassKeeper
-[![Image from Gyazo](https://i.gyazo.com/fd2836b0678e95ede52bc4d212f13f3e.jpg)](https://gyazo.com/fd2836b0678e95ede52bc4d212f13f3e)
-
+[![Image from Gyazo](https://i.gyazo.com/24bb394c361be5c328310fff18453dfa.gif)](https://gyazo.com/24bb394c361be5c328310fff18453dfa)
 
 <!-- ABOUT THE PROJECT -->
 ### About this project
