@@ -5,7 +5,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ### About this project
-A website built after learning html/css and Boostrap in a recent course. No backend functionality. Just frontend. Website is dynamic and mobile friendly. Used to solidify basics of html and css.
+A GUI program used to store Website name, email/username, and Password onto a local .txt file. Has input validation and confirmation features built in.
 
 
 <!--- Demo -->
